@@ -254,6 +254,7 @@
             this.dtpDateTime.Name = "dtpDateTime";
             this.dtpDateTime.Size = new System.Drawing.Size(268, 23);
             this.dtpDateTime.TabIndex = 0;
+            this.dtpDateTime.ValueChanged += new System.EventHandler(this.dtpDateTime_ValueChanged);
             // 
             // Form1
             // 
