@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT_Study\\DotNet\\.NET_Bassic\\Winform\\CalenderApp\\CalenderApp\\CalenderApp.csproj": {}
+    "D:\\FPT_Study\\DotNetProject\\TimeTableManagement\\Timetable_Management_System\\CalenderApp\\CalenderApp\\CalenderApp.csproj": {}
   },
   "projects": {
-    "D:\\FPT_Study\\DotNet\\.NET_Bassic\\Winform\\CalenderApp\\CalenderApp\\CalenderApp.csproj": {
+    "D:\\FPT_Study\\DotNetProject\\TimeTableManagement\\Timetable_Management_System\\CalenderApp\\CalenderApp\\CalenderApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT_Study\\DotNet\\.NET_Bassic\\Winform\\CalenderApp\\CalenderApp\\CalenderApp.csproj",
+        "projectUniqueName": "D:\\FPT_Study\\DotNetProject\\TimeTableManagement\\Timetable_Management_System\\CalenderApp\\CalenderApp\\CalenderApp.csproj",
         "projectName": "CalenderApp",
-        "projectPath": "D:\\FPT_Study\\DotNet\\.NET_Bassic\\Winform\\CalenderApp\\CalenderApp\\CalenderApp.csproj",
+        "projectPath": "D:\\FPT_Study\\DotNetProject\\TimeTableManagement\\Timetable_Management_System\\CalenderApp\\CalenderApp\\CalenderApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT_Study\\DotNet\\.NET_Bassic\\Winform\\CalenderApp\\CalenderApp\\obj\\",
+        "outputPath": "D:\\FPT_Study\\DotNetProject\\TimeTableManagement\\Timetable_Management_System\\CalenderApp\\CalenderApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

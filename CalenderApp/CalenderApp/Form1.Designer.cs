@@ -30,7 +30,7 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.panel5 = new System.Windows.Forms.Panel();
+            this.pnlDayInMonth = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.btnNextMonth = new System.Windows.Forms.Button();
             this.btnSunday = new System.Windows.Forms.Button();
@@ -62,24 +62,24 @@
             this.panel1.Controls.Add(this.panel3);
             this.panel1.Location = new System.Drawing.Point(12, 12);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(939, 532);
+            this.panel1.Size = new System.Drawing.Size(939, 495);
             this.panel1.TabIndex = 0;
             // 
             // panel2
             // 
-            this.panel2.Controls.Add(this.panel5);
+            this.panel2.Controls.Add(this.pnlDayInMonth);
             this.panel2.Controls.Add(this.panel4);
             this.panel2.Location = new System.Drawing.Point(3, 43);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(933, 486);
+            this.panel2.Size = new System.Drawing.Size(933, 449);
             this.panel2.TabIndex = 2;
             // 
-            // panel5
+            // pnlDayInMonth
             // 
-            this.panel5.Location = new System.Drawing.Point(123, 58);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(685, 425);
-            this.panel5.TabIndex = 1;
+            this.pnlDayInMonth.Location = new System.Drawing.Point(123, 83);
+            this.pnlDayInMonth.Name = "pnlDayInMonth";
+            this.pnlDayInMonth.Size = new System.Drawing.Size(685, 364);
+            this.pnlDayInMonth.TabIndex = 1;
             // 
             // panel4
             // 
@@ -259,7 +259,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(964, 578);
+            this.ClientSize = new System.Drawing.Size(964, 526);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
             this.Text = "Calender";
@@ -278,7 +278,7 @@
 
         private Panel panel1;
         private Panel panel2;
-        private Panel panel5;
+        private Panel pnlDayInMonth;
         private Panel panel4;
         private Panel panel3;
         private DateTimePicker dtpDate;

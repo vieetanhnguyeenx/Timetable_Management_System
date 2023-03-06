@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gIVvyx/wsMkEopZDA9D2wXC1J/DVrwNO9PdnVMHa85bHWeZiumZhVIuAO0imVDBYKajgAruptVUy0UtdLQkWOA==",
+  "dgSpecHash": "SdJ9zoPJqkOWjwq9vtnDPF0WWo7EHPVY/ms3jriLGk0t88zymNQ0FEj96JljTGzmACXRHqCGWMAXxPwJFS8j8Q==",
   "success": true,
-  "projectFilePath": "D:\\FPT_Study\\DotNet\\.NET_Bassic\\Winform\\CalenderApp\\CalenderApp\\CalenderApp.csproj",
+  "projectFilePath": "D:\\FPT_Study\\DotNetProject\\TimeTableManagement\\Timetable_Management_System\\CalenderApp\\CalenderApp\\CalenderApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
